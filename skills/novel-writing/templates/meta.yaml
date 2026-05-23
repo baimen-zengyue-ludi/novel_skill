@@ -1,0 +1,15 @@
+title: 书名
+author: 作者
+genre: 类型
+language: zh-CN
+chapter_format: md
+next_chapter: 1
+default_pov: protagonist-id
+min_chars_per_chapter: 2000
+writing_mode: hybrid
+memory_window_chapters: 5
+background_required_tags:
+  - 世界观
+  - 根本
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
