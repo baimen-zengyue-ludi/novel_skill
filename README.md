@@ -1,6 +1,6 @@
 # novel_skill
 
-跨 **任意 Agent** 的本地小说仓库：规范只在 `skills/novel-writing/`，无 `.cursor` 专用副本。
+跨 **任意 Agent** 的本地小说仓库：规范只在 `skills/novel-writing/`。
 
 ## 能力
 
@@ -15,7 +15,7 @@
 ## 快速开始
 
 ```powershell
-cd E:\project\make_money\novel_skill
+cd ..\novel_skill
 powershell -ExecutionPolicy Bypass -File skills/novel-writing/scripts/init-novel.ps1
 ```
 
